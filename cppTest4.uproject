@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{02E8ADB8-4C6F-ADF6-031B-C79F6E943A1A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "cppTest4",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
